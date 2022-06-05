@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/busic/app/src/main/res/drawable-v24/diversity.xml" value="0.1" />
+        <entry key="..\:/Project/busic/app/src/main/res/drawable-v24/face-48px.xml" value="0.1665" />
+        <entry key="..\:/Project/busic/app/src/main/res/drawable-v24/gavel.xml" value="0.1" />
+        <entry key="..\:/Project/busic/app/src/main/res/drawable-v24/ic_broken_image.xml" value="0.137" />
+        <entry key="..\:/Project/busic/app/src/main/res/drawable-v24/ic_connection_error.xml" value="0.1" />
+        <entry key="..\:/Project/busic/app/src/main/res/drawable-v24/loading_img.xml" value="0.137" />
+        <entry key="..\:/Project/busic/app/src/main/res/drawable/cell_shape.xml" value="0.1" />
+        <entry key="..\:/Project/busic/app/src/main/res/drawable/cell_shape2.xml" value="0.8" />
+        <entry key="..\:/Project/busic/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Project/busic/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/activity_main.xml" value="0.15760869565217392" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/activity_slash.xml" value="0.1852355072463768" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/app_bar_main.xml" value="0.1334853090172239" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/content_main.xml" value="0.1334853090172239" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/fragment_book.xml" value="0.1265625" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/fragment_book_detail.xml" value="0.21403508771929824" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/fragment_book_list.xml" value="0.152" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/fragment_buku_detail.xml" value="0.1897644927536232" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/fragment_buku_list.xml" value="0.1897644927536232" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/fragment_gallery.xml" value="0.13323201621073963" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/fragment_slideshow.xml" value="0.1334853090172239" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/list_book_item.xml" value="0.2457831325301205" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/list_buku_item.xml" value="0.1897644927536232" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/list_view_item.xml" value="0.2089041095890411" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/nav_header_main.xml" value="0.536" />
+        <entry key="..\:/Project/busic/app/src/main/res/layout/test.xml" value="0.3096446700507614" />
+        <entry key="..\:/Project/busic/app/src/main/res/menu/activity_main_drawer.xml" value="0.27447916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
